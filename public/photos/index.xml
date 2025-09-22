@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rhys Wesley King</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Rhys Wesley King</description>
+    <title>Photos on Rhys Wesley King</title>
+    <link>http://localhost:1313/photos/</link>
+    <description>Recent content in Photos on Rhys Wesley King</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Sep 2025 13:04:09 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Trying Out Hugo for Webdev</title>
-      <link>http://localhost:1313/posts/trying-out-hugo-for-webdev/</link>
-      <pubDate>Mon, 22 Sep 2025 13:04:09 -0400</pubDate>
-      <guid>http://localhost:1313/posts/trying-out-hugo-for-webdev/</guid>
-      <description>&lt;h2 id=&#34;honestly-im-kinda-confused-but-i-like-it-so-far&#34;&gt;Honestly I&amp;rsquo;m kinda confused but I like it so far.&lt;/h2&gt; &lt;p&gt;With my first website I basically just taught myself how to make a basic static site with vanilla HTML and CSS (didn&amp;rsquo;t even touch Javascript lol) and that&amp;rsquo;s probably hurting me now jumping into a framework but it&amp;rsquo;s whatever. I kinda just like jumping headfirst into shit and just seeing how far I can go.&lt;/p&gt;&#xA;&lt;p&gt;Currently I&amp;rsquo;m just sitting outside of Perk! trying to brute force myself into understanding this and it&amp;rsquo;s kind of a vibe.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/photos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Warsaw, Poland</title>
       <link>http://localhost:1313/photos/warsaw-poland/</link>
@@ -56,13 +49,6 @@
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/photos/panaji-india-2/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/w/index.php?title=Panaji&amp;amp;oldid=949879387&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Panaji&lt;/a&gt; , formerly Panjim, is the capital of the Indian state of Goa and the headquarters of North Goa district. It lies on the banks of the Mandovi River estuary in the Ilhas de Goa sub-district (taluka). With a population of 114,759 in the metropolitan area, Panjim is Goa&amp;rsquo;s largest urban agglomeration, ahead of Margão and Vasco da Gama.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/static/img/abt_me_pic.avif&#34; alt=&#34;Image of Rhys King holding a camera, taking a picture&#34; class=&#34;img-responsive&#34;&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;rhys-wesley-king&#34;&gt;Rhys Wesley King&lt;/h2&gt; &lt;p&gt;&lt;em&gt;A multimedia artist with a lifetime passion for all things music, film, videogames, and computer technology.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-im-about&#34;&gt;What I&amp;rsquo;m About:&lt;/h2&gt; &lt;ul&gt;&#xA;&lt;li&gt;Audio/Music Production&lt;/li&gt;&#xA;&lt;li&gt;Filmmaking&lt;/li&gt;&#xA;&lt;li&gt;Photography&lt;/li&gt;&#xA;&lt;li&gt;Travel/Car Camping&lt;/li&gt;&#xA;&lt;li&gt;Game Dev&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;stats&#34;&gt;Stats:&lt;/h2&gt; &lt;ul&gt;&#xA;&lt;li&gt;Age: 24&lt;/li&gt;&#xA;&lt;li&gt;Pronouns: He/him&lt;/li&gt;&#xA;&lt;li&gt;Home Town: Richmond, VA&lt;/li&gt;&#xA;&lt;li&gt;Education: Christopher Newport University (84 Credits)&lt;/li&gt;&#xA;&lt;li&gt;Languages: English, Spanish (A1)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
