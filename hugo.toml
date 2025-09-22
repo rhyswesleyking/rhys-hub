@@ -1,0 +1,20 @@
+baseURL = 'https://rhyswesleyking.cc/'
+languageCode = 'en-us'
+title = 'Rhys Hub'
+theme = "hugo-theme-console"
+
+[params]
+  description = "A multimedia artist with a lifetime passion for all things music, film, videogames, and computer technology."
+  animateStyle = "animate-fade-up" # Animation style for content
+
+[[params.navlinks]]
+  name = "About"
+  url = "/about/"
+
+[[params.navlinks]]
+  name = "Blog"
+  url = "/posts/"
+
+[[params.navlinks]]
+  name = "Photos"
+  url = "/photos/"
