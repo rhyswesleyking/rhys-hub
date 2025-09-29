@@ -9,7 +9,7 @@ A multimedia artist with a lifetime passion for all things music, film, videogam
 <h1>Latest posts</h1>
 
 <div class="posts-list">
-{{ with .Site.GetPage "/posts" }}
+{{ with .Site.GetPage "/blog/" }}
     {{ range first 3 (sort .Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">
             <p>
@@ -25,7 +25,7 @@ A multimedia artist with a lifetime passion for all things music, film, videogam
 <h1>Latest photos</h1>
 
 <div class="image-grid">
-{{ with .Site.GetPage "/photos" }}
+{{ with .Site.GetPage "/portfolio/photos/" }}
     {{ range first 3 (sort .Pages "Date" "desc")}}
         <a href="{{ .Permalink }}" title="{{ .Title }}">
         {{ $image := .Page.Resources.GetMatch .Params.image }}

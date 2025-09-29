@@ -4,21 +4,70 @@
     
         
         <url>
-            <loc>http://localhost:1313/portfolio/photos/</loc>
-            <lastmod>2025-09-29T11:21:08-04:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/portfolio/</loc>
-            <lastmod>2025-09-29T11:21:08-04:00</lastmod>
+            <loc>http://localhost:1313/portfolio/photos/family/</loc>
+            <lastmod>2025-09-29T17:29:49-04:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:1313/</loc>
+            <lastmod>2025-09-29T17:29:49-04:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/portfolio/music/yt/</loc>
+            <lastmod>2025-09-29T14:15:31-04:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/portfolio/music/soundcloud/</loc>
+            <lastmod>2025-09-29T14:14:21-04:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/portfolio/films/music-videos/</loc>
+            <lastmod>2025-09-29T13:30:40-04:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/portfolio/films/events/</loc>
+            <lastmod>2025-09-29T13:25:16-04:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/portfolio/films/cinematography/</loc>
+            <lastmod>2025-09-29T13:13:27-04:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/portfolio/</loc>
+            <lastmod>2025-09-29T12:09:43-04:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/blog/</loc>
+            <lastmod>2025-09-29T11:50:23-04:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/portfolio/photos/</loc>
             <lastmod>2025-09-29T11:21:08-04:00</lastmod>
         </url>
         
@@ -53,57 +102,15 @@
     
         
         <url>
-            <loc>http://localhost:1313/blog/</loc>
+            <loc>http://localhost:1313/blog/tryingouthugo/trying-out-hugo-for-webdev/</loc>
             <lastmod>2025-09-22T13:04:09-04:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/blog/trying-out-hugo-for-webdev/</loc>
-            <lastmod>2025-09-22T13:04:09-04:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/portfolio/photos/warsaw-poland/</loc>
-            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/portfolio/photos/hel-poland-3/</loc>
-            <lastmod>2020-02-06T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/portfolio/photos/hel-poland-2/</loc>
-            <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/portfolio/photos/chicago-us/</loc>
+            <loc>http://localhost:1313/portfolio/photos/wedding/</loc>
             <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/portfolio/photos/arizona-us/</loc>
-            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/portfolio/photos/panaji-india-2/</loc>
-            <lastmod>2020-01-07T00:00:00+00:00</lastmod>
         </url>
         
     

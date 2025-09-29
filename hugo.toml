@@ -5,7 +5,8 @@ theme = "hugo-theme-console"
 
 [params]
   description = "test"
-  animateStyle = "animate-fade-up"
+  animateStyle = "animated flash"
+  titleCutting = false
 
 [[params.navlinks]]
   name = "About"
@@ -24,5 +25,10 @@ theme = "hugo-theme-console"
   url = "/shop/"
 
 [[params.navlinks]]
-  name = "links"
+  name = "Links"
   url = "/links/"
+
+  [privacy]
+  [privacy.youTube]
+    disable = false
+    privacyEnhanced = true

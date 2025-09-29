@@ -1,8 +1,10 @@
 +++
 title = "About"
+draft = 'false'
 +++
 
-![Image of Rhys King holding a camera, taking a picture](/static/img/abt_me_pic.avif)
+![Image of Rhys](/abt_me_pic.avif)
+
 ## Rhys Wesley King
 *A multimedia artist with a lifetime passion for all things music, film, videogames, and computer technology.*
 
