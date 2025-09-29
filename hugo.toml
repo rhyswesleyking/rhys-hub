@@ -13,8 +13,16 @@ theme = "hugo-theme-console"
 
 [[params.navlinks]]
   name = "Blog"
-  url = "/posts/"
+  url = "/blog/"
 
 [[params.navlinks]]
-  name = "Photos"
-  url = "/photos/"
+  name = "Portfolio"
+  url = "/portfolio/"
+
+[[params.navlinks]]
+  name = "Shop"
+  url = "/shop/"
+
+[[params.navlinks]]
+  name = "links"
+  url = "/links/"

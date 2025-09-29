@@ -4,77 +4,105 @@
     
         
         <url>
-            <loc>http://localhost:1313/posts/</loc>
-            <lastmod>2025-09-22T15:56:03-04:00</lastmod>
+            <loc>http://localhost:1313/portfolio/photos/</loc>
+            <lastmod>2025-09-29T11:21:08-04:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/portfolio/</loc>
+            <lastmod>2025-09-29T11:21:08-04:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:1313/</loc>
-            <lastmod>2025-09-22T15:56:03-04:00</lastmod>
+            <lastmod>2025-09-29T11:21:08-04:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/posts/test/</loc>
-            <lastmod>2025-09-22T15:56:03-04:00</lastmod>
+            <loc>http://localhost:1313/portfolio/music/</loc>
+            <lastmod>2025-09-29T11:18:00-04:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/posts/trying-out-hugo-for-webdev/</loc>
+            <loc>http://localhost:1313/portfolio/films/</loc>
+            <lastmod>2025-09-29T11:17:50-04:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/links/</loc>
+            <lastmod>2025-09-29T11:16:58-04:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/shop/</loc>
+            <lastmod>2025-09-29T11:02:57-04:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/blog/</loc>
             <lastmod>2025-09-22T13:04:09-04:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/photos/</loc>
+            <loc>http://localhost:1313/blog/trying-out-hugo-for-webdev/</loc>
+            <lastmod>2025-09-22T13:04:09-04:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/portfolio/photos/warsaw-poland/</loc>
             <lastmod>2020-02-09T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/photos/warsaw-poland/</loc>
-            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/photos/hel-poland-3/</loc>
+            <loc>http://localhost:1313/portfolio/photos/hel-poland-3/</loc>
             <lastmod>2020-02-06T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/photos/hel-poland-2/</loc>
+            <loc>http://localhost:1313/portfolio/photos/hel-poland-2/</loc>
             <lastmod>2020-01-23T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/photos/arizona-us/</loc>
+            <loc>http://localhost:1313/portfolio/photos/chicago-us/</loc>
             <lastmod>2020-01-21T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/photos/chicago-us/</loc>
+            <loc>http://localhost:1313/portfolio/photos/arizona-us/</loc>
             <lastmod>2020-01-21T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/photos/panaji-india-2/</loc>
+            <loc>http://localhost:1313/portfolio/photos/panaji-india-2/</loc>
             <lastmod>2020-01-07T00:00:00+00:00</lastmod>
         </url>
         

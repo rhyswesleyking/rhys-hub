@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Rhys Wesley King</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Rhys Wesley King</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Sep 2025 13:04:09 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trying Out Hugo for Webdev</title>
+      <link>http://localhost:1313/blog/trying-out-hugo-for-webdev/</link>
+      <pubDate>Mon, 22 Sep 2025 13:04:09 -0400</pubDate>
+      <guid>http://localhost:1313/blog/trying-out-hugo-for-webdev/</guid>
+      <description>&lt;h2 id=&#34;honestly-im-kinda-confused-but-i-like-it-so-far&#34;&gt;Honestly I&amp;rsquo;m kinda confused but I like it so far.&lt;/h2&gt; &lt;p&gt;With my first website I basically just taught myself how to make a basic static site with vanilla HTML and CSS (didn&amp;rsquo;t even touch Javascript lol) and that&amp;rsquo;s probably hurting me now jumping into a framework but it&amp;rsquo;s whatever. I kinda just like jumping headfirst into shit and just seeing how far I can go.&lt;/p&gt;&#xA;&lt;p&gt;Currently I&amp;rsquo;m just sitting outside of Perk! trying to brute force myself into understanding this and it&amp;rsquo;s kind of a vibe.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
