@@ -5,3 +5,4 @@ type = "gallery"
 image = 'P1099074.jpg'
 +++
 
+![test](/content/portfolio/photos/wedding/P1088272-2.jpg)

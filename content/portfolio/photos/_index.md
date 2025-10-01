@@ -4,3 +4,5 @@ draft = false
 title = 'Photos'
 type = 'gallery'
 +++
+
+![Weddings](/content/portfolio/photos/wedding/)
