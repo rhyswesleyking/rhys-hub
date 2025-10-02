@@ -2,7 +2,7 @@ name = "rhys-hub"
 compatibility_date = "2025-10-02"
 
 [build]
-command = "./build.sh"
+command = "chmod a+x build.sh && ./build.sh"
 
 [assets]
 directory = "./public"
