@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photos on Rhys Wesley King</title>
-    <link>https://rhyswesleyking.cc/portfolio/photos/</link>
+    <link>http://localhost:1313/portfolio/photos/</link>
     <description>Recent content in Photos on Rhys Wesley King</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Sep 2025 17:29:49 -0400</lastBuildDate>
-    <atom:link href="https://rhyswesleyking.cc/portfolio/photos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/photos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Family</title>
-      <link>https://rhyswesleyking.cc/portfolio/photos/family/</link>
+      <link>http://localhost:1313/portfolio/photos/family/</link>
       <pubDate>Mon, 29 Sep 2025 17:29:49 -0400</pubDate>
-      <guid>https://rhyswesleyking.cc/portfolio/photos/family/</guid>
+      <guid>http://localhost:1313/portfolio/photos/family/</guid>
       <description></description>
     </item>
     <item>
       <title>Weddings</title>
-      <link>https://rhyswesleyking.cc/portfolio/photos/wedding/</link>
+      <link>http://localhost:1313/portfolio/photos/wedding/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rhyswesleyking.cc/portfolio/photos/wedding/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://rhyswesleyking.cc/content/portfolio/photos/wedding/P1088272-2.jpg&#34; alt=&#34;test&#34; class=&#34;img-responsive&#34;&gt; &lt;/p&gt;</description>
+      <guid>http://localhost:1313/portfolio/photos/wedding/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/content/portfolio/photos/wedding/P1088272-2.jpg&#34; alt=&#34;test&#34; class=&#34;img-responsive&#34;&gt; &lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
