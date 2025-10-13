@@ -11,3 +11,6 @@ not_found_handling = "404-page"
 [[routes]]
 pattern = "rwklibrary.com"
 custom_domain = true
+
+[site]
+bucket = "./public"
