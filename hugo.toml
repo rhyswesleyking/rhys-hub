@@ -28,7 +28,7 @@ theme = "hugo-theme-console"
   name = "Links"
   url = "/links/"
 
-  [privacy]
+[privacy]
   [privacy.youTube]
     disable = false
     privacyEnhanced = true
