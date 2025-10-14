@@ -4,7 +4,7 @@ title = 'Rhys Wesley King'
 theme = "hugo-theme-console"
 
 [params]
-  description = "test"
+  description = "Hello World"
   animateStyle = "animated flash"
   titleCutting = false
 

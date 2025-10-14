@@ -6,8 +6,15 @@
     <description>Recent content in Blog on Rhys Wesley King</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Sep 2025 13:04:09 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 12:08:57 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finally Online</title>
+      <link>http://localhost:1313/blog/finallyonline/</link>
+      <pubDate>Tue, 14 Oct 2025 12:08:57 -0400</pubDate>
+      <guid>http://localhost:1313/blog/finallyonline/</guid>
+      <description>&lt;h2 id=&#34;so-that-took-a-few-weeks-to-actually-get-running-haha&#34;&gt;So that took a few weeks to actually get running haha.&lt;/h2&gt; &lt;p&gt;I think I spent around four hours at the library yesterday endlessly pouring through Cloudflare and Hugo documentation just trying to figure out that exact magic combination. It turns out I had almost successfully done it a few weeks ago when I first posted, but something as simple as the &amp;ldquo;baseURL&amp;rdquo; not being set properly in my .toml config file is what caused my website to not work properly (front page would work fine, but then it would link to my &lt;a href=&#34;https://rhyswesleyking.cc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rhyswesleyking.cc&lt;/a&gt;  website lol).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Trying Out Hugo for Webdev</title>
       <link>http://localhost:1313/blog/tryingouthugo/trying-out-hugo-for-webdev/</link>
