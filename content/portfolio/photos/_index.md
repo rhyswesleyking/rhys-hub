@@ -1,6 +1,6 @@
 +++
 date = '2025-09-29T11:21:08-04:00'
 draft = false
-title = 'Photos'
-type = "gallery"
+title = 'Photography'
+type = 'gallery'
 +++

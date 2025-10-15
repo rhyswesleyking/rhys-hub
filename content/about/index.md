@@ -3,12 +3,12 @@ title = "About"
 draft = 'false'
 +++
 
-![Image of Rhys](/abt_me_pic.avif)
-
 ## Rhys Wesley King
+
 *A multimedia artist with a lifetime passion for all things music, film, videogames, and computer technology.*
 
 ## What I'm About:
+
 * Audio/Music Production
 * Filmmaking
 * Photography
@@ -22,3 +22,11 @@ draft = 'false'
 - Home Town: Richmond, VA
 - Education: Christopher Newport University (84 Credits)
 - Languages: English, Spanish (A1)
+
+![Image of Rhys](/abt_me_pic.avif)
+
+## Contact Me:
+
+Phone -- (804) 397-0765
+
+Email -- rhyswesleyking@proton.me
