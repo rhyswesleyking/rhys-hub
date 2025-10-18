@@ -12,8 +12,8 @@
    xmpMM:DerivedFrom="P1333757-2.jpg"
    xmp:Rating="1"
    darktable:import_timestamp="63896152066166902"
-   darktable:change_timestamp="63896152151910563"
-   darktable:export_timestamp="-1"
+   darktable:change_timestamp="63896152156254820"
+   darktable:export_timestamp="63896152174531732"
    darktable:print_timestamp="-1"
    darktable:xmp_version="5"
    darktable:raw_params="0"
@@ -21,7 +21,7 @@
    darktable:history_end="5"
    darktable:iop_order_version="5"
    darktable:history_basic_hash="02d4cdbda625305c5e181669466f51d2"
-   darktable:history_current_hash="3a4cd8f3697928d904ac386b355bf078">
+   darktable:history_current_hash="476a89ff4e3d87fa99b4c82c39b2c9fa">
    <darktable:masks_history>
     <rdf:Seq/>
    </darktable:masks_history>
@@ -76,7 +76,7 @@
       darktable:operation="watermark"
       darktable:enabled="1"
       darktable:modversion="6"
-      darktable:params="gz08eJwr3LvAKchigdOBEuE9DEDAwoAAzFC6ODO3ICdVtyS1okS3OCMxJb9cr7gsnYFo4JaYm5lTSbz6UTDcQIM9DHuk5pSllmQmJyr4pZamKoRkZOYpGBoQbxIAIaIaSQ=="
+      darktable:params="gz08eJwr3LvAKchigdOBEuE9Hy6dtWNhQABmKF2cmVuQk6pbklpRoluckZiSX65XXJbOQDRwS8zNzKkkXv0oGG6gwR6GPVJzylJLMpMTFfxSS1MVQjIy8xQMDYg3CQCEOR0W"
       darktable:multi_name=""
       darktable:multi_name_hand_edited="0"
       darktable:multi_priority="0"
@@ -86,15 +86,15 @@
    </darktable:history>
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>changed</rdf:li>
      <rdf:li>darktable</rdf:li>
+     <rdf:li>exported</rdf:li>
      <rdf:li>format</rdf:li>
      <rdf:li>jpg</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <lr:hierarchicalSubject>
     <rdf:Bag>
-     <rdf:li>darktable|changed</rdf:li>
+     <rdf:li>darktable|exported</rdf:li>
      <rdf:li>darktable|format|jpg</rdf:li>
     </rdf:Bag>
    </lr:hierarchicalSubject>

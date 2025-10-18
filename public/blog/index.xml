@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Rhys Wesley King</title>
-    <link>https://rwklibrary.com/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blog on Rhys Wesley King</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Oct 2025 12:08:57 -0400</lastBuildDate>
-    <atom:link href="https://rwklibrary.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Finally Online!</title>
-      <link>https://rwklibrary.com/blog/finallyonline/</link>
+      <link>http://localhost:1313/blog/finallyonline/</link>
       <pubDate>Tue, 14 Oct 2025 12:08:57 -0400</pubDate>
-      <guid>https://rwklibrary.com/blog/finallyonline/</guid>
+      <guid>http://localhost:1313/blog/finallyonline/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://file.garden/aNrzhKs5GzL9dO5u/retrointernet.gif&#34; alt=&#34;Retro gif of a computer connecting to the internet&#34; class=&#34;img-responsive&#34;&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;so-that-took-a-few-weeks-to-actually-get-running-haha&#34;&gt;So that took a few weeks to actually get running haha.&lt;/h2&gt; &lt;p&gt;I think I spent around four hours at the library yesterday endlessly pouring through Cloudflare and Hugo documentation just trying to figure out that exact magic combination. It turns out I had almost successfully done it a few weeks ago when I first posted, but something as simple as the &amp;ldquo;baseURL&amp;rdquo; not being set properly in my .toml config file is what caused my website to not work properly (front page would work fine, but then it would link to my &lt;a href=&#34;https://rhyswesleyking.cc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rhyswesleyking.cc&lt;/a&gt;  website lol).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trying Out Hugo for Webdev</title>
-      <link>https://rwklibrary.com/blog/tryingouthugo/trying-out-hugo-for-webdev/</link>
+      <link>http://localhost:1313/blog/tryingouthugo/trying-out-hugo-for-webdev/</link>
       <pubDate>Mon, 22 Sep 2025 13:04:09 -0400</pubDate>
-      <guid>https://rwklibrary.com/blog/tryingouthugo/trying-out-hugo-for-webdev/</guid>
+      <guid>http://localhost:1313/blog/tryingouthugo/trying-out-hugo-for-webdev/</guid>
       <description>&lt;h2 id=&#34;honestly-im-kinda-confused-but-i-like-it-so-far&#34;&gt;Honestly I&amp;rsquo;m kinda confused but I like it so far.&lt;/h2&gt; &lt;p&gt;With my first website I basically just taught myself how to make a basic static site with vanilla HTML and CSS (didn&amp;rsquo;t even touch Javascript lol) and that&amp;rsquo;s probably hurting me now jumping into a framework but it&amp;rsquo;s whatever. I kinda just like jumping headfirst into shit and just seeing how far I can go.&lt;/p&gt;&#xA;&lt;p&gt;Currently I&amp;rsquo;m just sitting outside of Perk! trying to brute force myself into understanding this and it&amp;rsquo;s kind of a vibe.&lt;/p&gt;</description>
     </item>
   </channel>
